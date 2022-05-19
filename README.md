@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/TrustedFloppa">
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 # [ABND](https://www.udacity.com/course/android-development-for-beginners--ud837) | News App
 #
 This is the of the Sixth Project [Android Basics Nanodegree](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) program offered by Udacity in collaaboratin with Google.
